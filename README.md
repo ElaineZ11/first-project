@@ -1,8 +1,8 @@
-# BasicProjec
+# first-projec
 
 ## March 26, 2016
 
-Create a repo on GitHub and clone it
+My first project
 
 * Java 7
 * Maven
